@@ -26,13 +26,16 @@ or
 
 - Live Server plugin for Visual Studio Code 
 
-### Setup #2
+### Setup #1
+
 
 1 - Download the code or copy the repository to your computer
 
 2 - Run the index.html file
 
+
 ### Setup #2
+
 
 1- Clone the repository
 ```
