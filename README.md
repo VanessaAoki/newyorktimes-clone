@@ -1,8 +1,8 @@
 # The New York Times Article's Page Clone
 This project aims to clone The New York Times article webpage using HTML & CSS. 
 
-![screenshot](./assets/imgs/screenshot1.jpg)
-![screenshot](./assets/imgs/screenshot2.jpg)
+![screenshot](./assets/imgs/screenshot1.png)
+![screenshot](./assets/imgs/screenshot2.png)
 
 ## Built With
 
