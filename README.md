@@ -64,8 +64,7 @@ https://github.com/VanessaAoki/newyorktimes-clone.git
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]
-(https://github.com/kimothokamau/newyorktimes-clone/issues)
+Feel free to check the [issues page](https://github.com/kimothokamau/newyorktimes-clone/issues)
 
 ## Show your support
 
